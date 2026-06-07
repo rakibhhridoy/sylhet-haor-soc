@@ -1,0 +1,7 @@
+Highlights
+
+- Integrated field, satellite, reanalysis and global-soil-database assessment of nine haor wetlands.
+- ERA5-Land shows the basin is warming and drying though its wet-season footprint is stable.
+- Inundated-area imagery alone can misrepresent wetland hydrological change.
+- In clay-rich acidic wetland soils, SOC is set by nitrogen, not by clay (validated at n approximately 9,700).
+- Management priorities: sustain flooding, return organic matter, monitor soil, temperature and hydroperiod.

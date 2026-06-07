@@ -1,0 +1,59 @@
+[Date]
+
+To the Editors,
+Journal of Environmental Management
+
+Dear Editors,
+
+We are pleased to submit our manuscript, "Soil Organic Carbon under Warming, Drying and
+Agricultural Intensification: Integrating Field Sampling, Multi-decadal Remote Sensing and
+Reanalysis in the Sylhet Haors, Bangladesh," for consideration as a research article in the
+Journal of Environmental Management.
+
+Wetlands in South and Southeast Asia are major soil carbon stores under intensifying climatic
+and land-use pressure, yet their management is hampered by sparse field data and by
+remote-sensing signals that are readily confounded in seasonally flooded systems. Our study
+addresses this by integrating five independent lines of evidence for nine haor wetlands of the
+Sylhet Basin, Bangladesh -- field soil sampling, multi-decadal Landsat indices, Sentinel-2
+land-cover classification with a formal accuracy assessment, ERA5-Land climate reanalysis, and
+benchmarking against the global WoSIS soil database -- to reach management-relevant conclusions
+that no single data stream could support alone.
+
+We believe the work fits the scope of the Journal of Environmental Management for several
+reasons:
+
+1. It delivers actionable management guidance for wetland carbon -- sustaining the seasonal
+   flood pulse, returning organic matter through rice management, directing urban expansion
+   away from high-carbon cores, and establishing long-term soil/temperature/hydroperiod
+   monitoring.
+
+2. It contributes a transferable, confound-aware methodology of direct relevance to
+   environmental monitoring: we show that inundated-area imagery alone can misrepresent
+   hydrological change (the basin is warming and drying even though its wet-season footprint
+   appears stable), and we demonstrate how dry-season compositing and independent reanalysis
+   resolve this.
+
+3. Its central soil finding -- that in clay-rich, acidic wetland soils SOC is governed by
+   nitrogen and organic-matter supply rather than by clay -- is externally validated against
+   approximately 9,700 comparable profiles in the WoSIS database and a space-for-time climate
+   analysis, giving the nine-site result broad generalizability.
+
+We have been deliberately transparent about the limitations of the field dataset (nine sites,
+a single 2025 sampling, and a secondary 1985 baseline), and we frame the long-term SOC
+comparison as suggestive rather than definitive; the manuscript's quantitative conclusions rest
+on the statistically supported environmental trends and the large-sample external benchmarking.
+
+This manuscript is original, has not been published elsewhere, and is not under consideration by
+any other journal. All authors have approved the submission and declare no competing interests.
+The datasets and analysis code supporting the study are available in a repository, with external
+data sources documented.
+
+We suggest the manuscript may be suitable for editors/reviewers with expertise in wetland
+biogeochemistry, land-use/remote-sensing assessment, and soil carbon management.
+
+Thank you for considering our work.
+
+Sincerely,
+Md Jashim Uddin (corresponding author), on behalf of all authors
+Department of Soil, Water and Environment, University of Dhaka, Dhaka 1000, Bangladesh
+juswe@du.ac.bd

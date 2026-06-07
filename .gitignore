@@ -1,0 +1,24 @@
+# The data/ directory is distributed via Zenodo, not GitHub.
+# (Comment the next line out if you prefer to also version-control the data.)
+data/
+
+# Generated outputs
+results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# macOS / editor junk
+._*
+.DS_Store
+
+# LaTeX build artifacts
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.log
+manuscript/*.out
+manuscript/*.spl
