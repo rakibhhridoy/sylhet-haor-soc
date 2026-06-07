@@ -1,5 +1,7 @@
 # Data sources & provenance
 
+The `data/` directory is archived on Zenodo: **https://doi.org/10.5281/zenodo.20579004**.
+
 Every file in `data/` is documented below: what it is, where it came from, and (for derived
 products) which script regenerates it. Large external datasets (multi-GB rasters, the full WoSIS
 snapshot) are **not** redistributed here; their cached tabular derivatives are, so all reported

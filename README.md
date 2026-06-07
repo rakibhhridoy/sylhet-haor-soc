@@ -13,7 +13,7 @@ GLDAS / GRACE hydrological reanalysis, and an external WoSIS soil-profile benchm
 | Part | Where | Contents |
 |---|---|---|
 | **Code** | GitHub repository | `scripts/`, `paths.py`, `*.md`, `requirements.txt`, `environment.yml`, `run_all.sh` |
-| **Data** | Zenodo archive (DOI: `TODO`) | the `data/` directory |
+| **Data** | Zenodo archive ([10.5281/zenodo.20579004](https://doi.org/10.5281/zenodo.20579004)) | the `data/` directory |
 
 To reproduce: clone the GitHub repo, download the Zenodo archive, and unzip it so that the
 `data/` folder sits in the repo root next to `paths.py`. All scripts resolve their paths through
@@ -62,7 +62,8 @@ and matches the corresponding manuscript values.
 ## Citation
 
 If you use this code or data, please cite the article (once assigned) and the Zenodo data
-archive (DOI above). External datasets retain their own citations — see `DATA_SOURCES.md`.
+archive (https://doi.org/10.5281/zenodo.20579004). External datasets retain their own citations
+— see `DATA_SOURCES.md`.
 
 ## License
 
