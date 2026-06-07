@@ -5,6 +5,9 @@ data/
 # Generated outputs
 results/
 
+# Zenodo upload artifact (built locally; not version-controlled)
+*.zip
+
 # Python
 __pycache__/
 *.pyc
@@ -14,11 +17,3 @@ __pycache__/
 # macOS / editor junk
 ._*
 .DS_Store
-
-# LaTeX build artifacts
-manuscript/*.aux
-manuscript/*.bbl
-manuscript/*.blg
-manuscript/*.log
-manuscript/*.out
-manuscript/*.spl

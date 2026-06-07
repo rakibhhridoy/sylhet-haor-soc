@@ -1,7 +1,7 @@
 # Value map — every manuscript number to its script and data
 
-Each row links a quantity reported in `manuscript/Manuscript.tex` to the script that computes
-it and the data file it reads. Unless noted, scripts run **offline** from `data/` (no Google
+Each row links a quantity reported in the manuscript (not distributed here) to the script that
+computes it and the data file it reads. Unless noted, scripts run **offline** from `data/` (no Google
 Earth Engine, no rasters) via `run_all.sh`, and write to `results/`. Verified to match the
 manuscript on Python 3.11 with the pinned `requirements.txt`.
 

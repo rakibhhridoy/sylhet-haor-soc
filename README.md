@@ -13,12 +13,17 @@ GLDAS / GRACE hydrological reanalysis, and an external WoSIS soil-profile benchm
 
 | Part | Where | Contents |
 |---|---|---|
-| **Code** | GitHub repository | `scripts/`, `manuscript/`, `paths.py`, `*.md`, `requirements.txt`, `environment.yml`, `run_all.sh` |
+| **Code** | GitHub repository | `scripts/`, `paths.py`, `*.md`, `requirements.txt`, `environment.yml`, `run_all.sh` |
 | **Data** | Zenodo archive (DOI: `TODO`) | the `data/` directory |
 
 To reproduce: clone the GitHub repo, download the Zenodo archive, and unzip it so that the
 `data/` folder sits in the repo root next to `paths.py`. All scripts resolve their paths through
 `paths.py`, so nothing else needs editing.
+
+> **Note.** The manuscript text, figures and cover letter are **not** included in this public
+> package; they are available through the journal or from the corresponding author on request.
+> This repository provides only the code (and, via Zenodo, the data) needed to reproduce the
+> reported results.
 
 ```
 Reproducible_JEM/
@@ -32,7 +37,6 @@ Reproducible_JEM/
 │   ├── raster/           # need the 6.5 GB classified rasters (provenance; outputs cached)
 │   ├── gee/              # Google Earth Engine extraction (provenance; outputs cached)
 │   └── wosis/            # WoSIS 0–30 cm aggregation (needs external WoSIS snapshot)
-├── manuscript/           # ── GitHub ── Manuscript.tex, references.bib, Fig*.png, cover letter
 ├── data/                 # ── Zenodo ──
 │   ├── field/            # 2025 field soil, 1985 baseline, lab workbook
 │   ├── geodata/          # spectral-index & LULC-area CSVs

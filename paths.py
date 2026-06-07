@@ -2,7 +2,7 @@
 Central path configuration for the Sylhet Haor SOC reproducibility package.
 
 Every analysis script imports from here, so the bundle works wherever it is unzipped:
-clone the GitHub repo (scripts/, manuscript/, paths.py) and drop the Zenodo `data/`
+clone the GitHub repo (scripts/, paths.py) and drop the Zenodo `data/`
 archive in next to this file.
 
 Layout
@@ -10,7 +10,6 @@ Layout
 <repo root>/
   paths.py            <- this file (defines ROOT as its own directory)
   scripts/            <- code (GitHub)
-  manuscript/         <- LaTeX source + figures (GitHub)
   data/               <- inputs + derived products (Zenodo)
     field/            <- 2025 field soil + 1985 baseline + lab workbook
     geodata/          <- spectral-index & LULC-area CSVs
