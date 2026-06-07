@@ -1,8 +1,7 @@
-# Soil Organic Carbon under Warming, Drying and Agricultural Intensification in the Sylhet Haors — reproducibility package
+# Soil Organic Carbon Dynamics in the Tropical Sylhet Haor Wetlands of Bangladesh — reproducibility package
 
 Code and data to reproduce **every value, table and figure** in the manuscript
-*"Soil Organic Carbon under Warming, Drying and Agricultural Intensification: Integrating Field
-Sampling, Multi-decadal Remote Sensing and Reanalysis in the Sylhet Haors, Bangladesh"*
+*"Soil Organic Carbon Dynamics in the Tropical Sylhet Haor Wetlands of Bangladesh"*
 (submitted to the *Journal of Environmental Management*).
 
 The study combines 2025 field soil sampling at nine haor wetlands with a cleaned 1985 SRDI
